@@ -4,6 +4,15 @@ title: NEO Workshop 2025
 ---
 <h1>NEO Workshop 2025 program</h1>
 
+<p>This is the third event of a series of annual Workshops that the NEO research group organizes in July to talk about scientific contributions of the group and visiting researchers. The list of Speakers this year is:</p>
+<ul>
+  <li>Francisco Chicano, Universidad de Málaga, Spain</li>
+  <li>Gabriela Ochoa, University of Stirling, Scotland, UK</li>
+  <li>Luciano Robino, Universidad Nacional del Centro de la Provincial de Buenos Aires, Argentina</li>
+  <li>Renato Tinós, University of São Paulo, Brazil</li>
+  <li>Darrell Whitley, Colorado State University, USA</li>
+</ul>
+
 <table border="1" cellpadding="8" cellspacing="0">
   <thead>
     <tr>
