@@ -16,8 +16,8 @@ title: NEO Workshop 2025
 <table border="1" cellpadding="8" cellspacing="0">
   <thead>
     <tr>
-      <th>Hora</th>
-      <th>Actividad</th>
+      <th>Time</th>
+      <th>Activity</th>
     </tr>
   </thead>
   <tbody>
