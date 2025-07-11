@@ -37,8 +37,8 @@ title: NEO Workshop 2025
       <td><strong>Darrell Whitley</strong>: Partition Crossover, Fractals and Parallel Lattices in K-bounded Functions</td>
     </tr>
     <tr>
-      <td>13:30 - 14:00</td>
-      <td><em>Walk to the restaurant</em></td>
+      <td>13:30 - </td>
+      <td><em>Walk to the restaurant and lunch</em></td>
     </tr>
   </tbody>
 </table>
