@@ -6,7 +6,7 @@ baseurl: ""  # no pongas nada aquí si el repositorio es username.github.io
 url: "https://NEO-Research-Group.github.io/neo-workshops"  # reemplaza con tu nombre de usuario de GitHub
 
 # Tema de Jekyll (soportado por GitHub Pages)
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
 
 # Datos del autor (opcional)
 author:
