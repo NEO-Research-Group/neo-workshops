@@ -25,7 +25,7 @@ title: NEO Workshop 2026
   <tbody>
     <tr>
       <td>10:00 - 10:30</td>
-      <td><strong>Jamal Toutouh</strong>: Cooperative Coevolution versus Monolithic Evolutionary Search for Semi-Supervised Tabular Classification</td>
+      <td><strong>Enrique Alba</strong>: Two New Research Lines and a Curiosity</td>
     </tr>
     <tr>
       <td>10:30 - 11:00</td>
@@ -41,11 +41,11 @@ title: NEO Workshop 2026
     </tr>
     <tr>
       <td>12:00 - 12:30</td>
-      <td><strong>Enrique Alba</strong>: Two New Research Lines and a Curiosity</td>
+      <td><strong>Jamal Toutouh</strong>: Cooperative Coevolution versus Monolithic Evolutionary Search for Semi-Supervised Tabular Classification</td>
     </tr>
     <tr>
       <td>12:30 - 13:00</td>
-      <td><strong>Guillermo</strong>: TBD</td>
+      <td><strong>Guillermo Nicolás Cabrera Guerrero</strong>: TBD</td>
     </tr>
     <tr>
       <td>13:00 - 13:30</td>
