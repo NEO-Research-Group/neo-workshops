@@ -8,11 +8,11 @@ title: NEO Workshop 2026
 <p>This is the fourth event of a series of annual Workshops that the NEO research group organizes in July to talk about scientific contributions of the group and visiting researchers. The list of Speakers this year is:</p>
 <ul>
   <li>Enrique Alba, Universidad de Málaga, Spain</li>
-  <li>Francisco Chicano, Universidad de Málaga, Spain</li>
-  <li>Jamal Toutouh, Universidad de Málaga, Spain</li>
-  <li>Diego Pedroza, Universidad de Málaga, Spain</li>
   <li>Guillermo N. Cabrera, Pontificia Universidad Catolica de Valparaiso, Chile</li>
+  <li>Francisco Chicano, Universidad de Málaga, Spain</li>
   <li>Paola Cuadra, Universidad de Málaga, Spain</li>
+  <li>Diego Pedroza, Universidad de Málaga, Spain</li>
+  <li>Jamal Toutouh, Universidad de Málaga, Spain</li>
 </ul>
 
 <table border="1" cellpadding="8" cellspacing="0">
