@@ -11,7 +11,7 @@ title: NEO Workshop 2026
   <li>Francisco Chicano, Universidad de Málaga, Spain</li>
   <li>Jamal Toutouh, Universidad de Málaga, Spain</li>
   <li>Diego Pedroza, Universidad de Málaga, Spain</li>
-  <li>Guillermo ?, Universidad de ?, Chile</li>
+  <li>Guillermo N. Cabrera, Pontificia Universidad Catolica de Valparaiso, Chile</li>
   <li>Paola Cuadra, Universidad de Málaga, Spain</li>
 </ul>
 
@@ -45,7 +45,7 @@ title: NEO Workshop 2026
     </tr>
     <tr>
       <td>12:30 - 13:00</td>
-      <td><strong>Guillermo Nicolás Cabrera Guerrero</strong>: TBD</td>
+      <td><strong>Guillermo N. Cabrera</strong>: TBD</td>
     </tr>
     <tr>
       <td>13:00 - 13:30</td>
