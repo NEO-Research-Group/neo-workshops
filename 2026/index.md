@@ -24,20 +24,12 @@ title: NEO Workshop 2026
   </thead>
   <tbody>
     <tr>
-      <td>10:00 - 10:30</td>
+      <td>11:00 - 11:30</td>
       <td><strong>Enrique Alba</strong>: Two New Research Lines and a Curiosity</td>
     </tr>
     <tr>
-      <td>10:30 - 11:00</td>
+      <td>11:30 - 12:00</td>
       <td><strong>Francisco Chicano</strong>: Exact computation of Pareto fronts using gray-box techniques</td>
-    </tr>
-    <tr>
-      <td>11:00 - 11:15</td>
-      <td><strong>Paola Cuadra</strong>: Multi-objective test suite minimization</td>
-    </tr>
-    <tr>
-      <td>11:15 - 12:00</td>
-      <td><em>Coffee break</em></td>
     </tr>
     <tr>
       <td>12:00 - 12:30</td>
