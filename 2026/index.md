@@ -10,7 +10,6 @@ title: NEO Workshop 2026
   <li>Enrique Alba, Universidad de Málaga, Spain</li>
   <li>Guillermo N. Cabrera, Pontificia Universidad Catolica de Valparaiso, Chile</li>
   <li>Francisco Chicano, Universidad de Málaga, Spain</li>
-  <li>Paola Cuadra, Universidad de Málaga, Spain</li>
   <li>Diego Pedroza, Universidad de Málaga, Spain</li>
   <li>Jamal Toutouh, Universidad de Málaga, Spain</li>
 </ul>
