@@ -36,7 +36,7 @@ title: NEO Workshop 2026
     </tr>
     <tr>
       <td>12:30 - 13:00</td>
-      <td><strong>Guillermo N. Cabrera</strong>: TBD</td>
+      <td><strong>Guillermo N. Cabrera</strong>: Biobjective Robust Optimisation of Positively Homogeneous Functions: An Application in Radiotherapy</td>
     </tr>
     <tr>
       <td>13:00 - 13:30</td>
