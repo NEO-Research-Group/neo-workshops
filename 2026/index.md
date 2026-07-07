@@ -7,7 +7,6 @@ title: NEO Workshop 2026
 
 <p>This is the fourth event of a series of annual Workshops that the NEO research group organizes in July to talk about scientific contributions of the group and visiting researchers. The list of Speakers this year is:</p>
 <ul>
-  <li>Francisco Servant, Universidad de Málaga, Spain</li>
   <li>Enrique Alba, Universidad de Málaga, Spain</li>
   <li>Guillermo N. Cabrera-Guerrero, Pontificia Universidad Catolica de Valparaiso, Chile</li>
   <li>Francisco Chicano, Universidad de Málaga, Spain</li>
