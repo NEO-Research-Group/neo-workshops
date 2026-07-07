@@ -23,10 +23,6 @@ title: NEO Workshop 2026
   </thead>
   <tbody>
     <tr>
-      <td>10:30 - 11:00</td>
-      <td><strong>Paco Servant</strong>: TBD</td>
-    </tr>
-    <tr>
       <td>11:00 - 11:30</td>
       <td><strong>Enrique Alba</strong>: Two New Research Lines and a Curiosity</td>
     </tr>
